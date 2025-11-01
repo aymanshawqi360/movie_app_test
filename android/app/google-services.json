@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574210413015",
+    "project_id": "movie-app-firebase-crashlytics",
+    "storage_bucket": "movie-app-firebase-crashlytics.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574210413015:android:8a9631b8e3c16edbf2fb92",
+        "android_client_info": {
+          "package_name": "com.example.movie_app_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcuH_87Aa4R35mt3_E42Vy7SfpykTcfyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
