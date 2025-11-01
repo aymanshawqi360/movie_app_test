@@ -54,6 +54,18 @@ dependencies:
   hive_ce_flutter: 2.3.3 
   hive_ce_generator: 1.10.0 
 
+ # firebase
+  firebase_core: ^4.2.0
+  firebase_crashlytics: ^5.0.3
+
+
+  # Others
+  flutter_screenutil: ^5.7.0
+  google_fonts: ^6.0.0
+  shimmer: ^3.0.0
+  animated_text_kit: ^4.2.2
+  intl: ^0.18.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
