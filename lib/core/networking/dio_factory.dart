@@ -35,7 +35,6 @@ class DioFactory extends ApiConsumer {
   }) async {
     try {
       final result = await dio.get(endPoint, queryParameters: queryParametes);
-      print(result.toString());
       return result;
     } catch (e) {
       rethrow;
